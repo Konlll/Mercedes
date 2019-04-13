@@ -30,8 +30,8 @@
         <header class="showcase">
             <div class="container showcase-inner">
                 <h1>Üdvözlünk a weboldalunkon!</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel lobortis lorem. Morbi cursus tincidunt nisi. Cras feugiat mollis ipsum a hendrerit. Duis in tincidunt tellus. Duis viverra rutrum lectus id laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi ornare luctus maximus. Aenean leo erat, porttitor non accumsan tincidunt, dignissim a ex. Sed volutpat odio nisl, et bibendum elit dignissim eu. Praesent eu tincidunt odio, vitae iaculis lectus. Sed maximus pellentesque malesuada. Nullam vulputate ligula in augue hendrerit fringilla. Ut tempor hendrerit lacinia. Donec condimentum convallis quam nec accumsan.</p>
-                <a class="btn" href="#">Read more</a>
+                <p>Ezen a weboldalon a Mercedes legújabb autóit láthatod a különböző osztályokból. Láthatod az új technológiákat és a legújabb megoldásokat. Kellemes időtöltést kívánok. Térj vissza máskor is weboldalunkra!</p>
+                <a class="btn" href="#">Tovább!</a>
             </div>
         </header>
     </body>
