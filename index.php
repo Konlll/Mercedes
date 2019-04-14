@@ -17,10 +17,12 @@
                 <div>
                     <div>
                         <ul>
-                            <li><a href="">Mercedes</a></li>
-                            <li><a href="">Mercedes</a></li>
-                            <li><a href="">Mercedes</a></li>
-                            <li><a href="">Mercedes</a></li>
+                            <li><a href="class/a.html">A-osztály</a></li>
+                            <li><a href="class/c.html">C-osztály</a></li>
+                            <li><a href="class/e.html">E-osztály</a></li>
+                            <li><a href="class/s.html">S-osztály</a></li>
+                            <li><a href="class/cls.html">CLS</a></li>
+                            <li><a href="class/cla.html">CLA</a></li>
                         </ul>
                     </div>
                 </div>

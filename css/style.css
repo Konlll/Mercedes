@@ -162,19 +162,23 @@ body {
   transition: color 0.4s ease;
 }
 
+.menu-wrap .menu > div > div > ul > li > a:hover {
+  color: rgba(255, 255, 255, 0.4);
+}
+
 /* Showcase főoldal */
-.container{
+.container {
   max-width: 960px;
   margin: auto;
   padding: 0.3rem;
 }
-.showcase{
+.showcase {
   color: #fff;
   height: 100vh;
   position: relative;
 }
 
-.showcase .showcase-inner{
+.showcase .showcase-inner {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -183,15 +187,15 @@ body {
   height: 100%;
 }
 
-.showcase h1{
+.showcase h1 {
   font-size: 4rem;
 }
 
-.showcase p{
+.showcase p {
   font-size: 1.3rem;
 }
 
-.btn{
+.btn {
   display: inline-block;
   border: none;
   background: var(--primary-color);
@@ -201,18 +205,18 @@ body {
   text-decoration: none;
 }
 
-.btn:hover{
+.btn:hover {
   opacity: 0.7;
 }
 
 /* Media Queries */
-@media(max-width: 768px){
-  body{
+@media (max-width: 768px) {
+  body {
     background: url("../img/responsive_logo.png") no-repeat fixed;
     background-position: center;
     background-size: cover;
   }
-  .showcase{
+  .showcase {
     color: #000;
   }
 }
